@@ -19,7 +19,6 @@ void dfs(int start) {
 }
 
 int main() {
-    vector<int> vec;
     cin >> n >> r;
     dfs(1);
     return 0;

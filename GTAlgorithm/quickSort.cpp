@@ -20,7 +20,7 @@ int qPartition(int left, int right) {
             i++;
         }
     }
-    a[i] =tmpRecord;
+    a[i] = tmpRecord;
     return i;
 }
 

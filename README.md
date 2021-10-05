@@ -15,7 +15,7 @@ I will update the algorithm model from time to time.
 ## Leetcode
 My leetcode home page: https://leetcode-cn.com/u/yuyangxianyi/
 
-### leetcode articles
+### Leetcode articles
 There are many articles in leetcode: https://leetcode-cn.com/profile/articles/
 
 ## Contact

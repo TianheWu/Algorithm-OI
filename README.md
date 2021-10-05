@@ -19,4 +19,4 @@ My leetcode home page: https://leetcode-cn.com/u/yuyangxianyi/
 There are many articles in leetcode: https://leetcode-cn.com/profile/articles/
 
 ## Contact
-email: tianhe_wu@foxmail.com
+Email: tianhe_wu@foxmail.com

@@ -13,10 +13,10 @@ I will update the algorithm model from time to time.
 - Matrix fast power
 
 ## Leetcode
-My leetcode home page: https://leetcode-cn.com/u/yuyangxianyi/
+My leetcode home page: [leetcode-page-wutianhe](https://leetcode-cn.com/u/yuyangxianyi/)
 
 ### Leetcode articles
-There are many articles in leetcode: https://leetcode-cn.com/profile/articles/
+There are many articles in leetcode: [leetcode-articles](https://leetcode-cn.com/profile/articles/)
 
 ## Contact
 Email: tianhe_wu@foxmail.com

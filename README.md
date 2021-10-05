@@ -7,10 +7,10 @@ I will update the algorithm model from time to time.
 
 ## Model
 ### Graph Theory
-- Kruskal
+- [Kruskal](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Model/Kruskal.cpp)
 
 ### Numeral Calculations
-- Matrix fast power
+- [Matrix fast power](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Model/matrix_quick_pow.cpp)
 
 ## Leetcode
 My leetcode home page: [leetcode-page-wutianhe](https://leetcode-cn.com/u/yuyangxianyi/)

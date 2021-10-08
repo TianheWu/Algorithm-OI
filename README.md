@@ -14,9 +14,18 @@ I will update the algorithm model from time to time.
 
 ## Column
 ### Dynamic Programming
-- [Nth Tebonacci number](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/1137.cpp), [Climb the stairs](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/70.cpp), [Climb stairs with minimal cost](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/746.cpp), [House robbery](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/198.cpp), [House robbery II](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/213.cpp), [Delete and get points](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/740.cpp)
-- [Jumping game](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/55.cpp), [Jump game II](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/45.cpp), [Maximal subsequence sum](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/53.cpp), [Maximum sum of circular sub-arrays](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/918.cpp)
-- [Maximum product sub-array](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/152.cpp), [The best time to buy and sell stocks](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/121.cpp)
+- [Nth Tebonacci number](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/1137.cpp)
+- [Climb the stairs](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/70.cpp)
+- [Climb stairs with minimal cost](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/746.cpp)
+- [House robbery](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/198.cpp)
+- [House robbery II](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/213.cpp)
+- [Delete and get points](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/740.cpp)
+- [Jumping game](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/55.cpp)
+- [Jump game II](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/45.cpp)
+- [Maximal subsequence sum](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/53.cpp)
+- [Maximum sum of circular sub-arrays](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/918.cpp)
+- [Maximum product sub-array](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/152.cpp)
+- [The best time to buy and sell stocks](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/121.cpp)
 - [The length of the longest sub-array whose product is a positive number](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/1567.cpp)
 - [Best sightseeing combination](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/1014.cpp)
 

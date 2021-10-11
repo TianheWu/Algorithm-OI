@@ -31,6 +31,7 @@ I will update the algorithm model from time to time.
 - [The best time to buy and sell stocks II](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/122.cpp)
 - [The best time to buy and sell stocks includes a freezing period](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/309.cpp)
 - [The best time to buy and sell stocks includes handling fees](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/714.cpp)
+- [Word split](https://github.com/TianheWu/Algorithm-OI/blob/master/Algorithm_Practice/leetcode/139.cpp)
 
 ## Leetcode
 My leetcode home page: [leetcode-page-wutianhe](https://leetcode-cn.com/u/yuyangxianyi/)
